@@ -1,14 +1,15 @@
-* Train ResNet18 on this dataset (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy. 
+#### Train ResNet18 on this dataset (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy. 
 
 
 
 # Tiny ImageNet 
 
 
-> It contains 200 image classes, a training
-dataset of 100,000 images, a validation dataset of 10,000
-images, and a test dataset of 10,000 images. All images are
-of size 64×64.
+* Contains 200 image classes
+* 100,000 training images
+* 10,000 validation images
+* 10,000 test images
+* Images Size 64×64
 
 
 [![image.png](https://i.postimg.cc/fbzgRh64/image.png)](https://postimg.cc/BjzCmRSN)
